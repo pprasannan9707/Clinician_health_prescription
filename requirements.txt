@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+pandas>=2.2.0
+openai>=1.40.0
+azure-identity>=1.17.0
+azure-storage-blob>=12.20.0
+python-dateutil>=2.9.0
